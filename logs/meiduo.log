@@ -1,0 +1,120 @@
+WARNING 2018-12-12 21:26:10,917 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:26:10,917 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2195
+WARNING 2018-12-12 21:26:11,070 log 228 Not Found: /favicon.ico
+WARNING 2018-12-12 21:26:11,070 basehttp 136 "GET /favicon.ico HTTP/1.1" 404 2165
+WARNING 2018-12-12 21:29:43,051 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:43,051 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:48,051 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:48,053 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:48,718 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:48,719 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:49,011 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:49,012 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:49,586 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:49,587 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:53,864 log 228 Not Found: /sms_code/13712345671/
+WARNING 2018-12-12 21:29:53,864 basehttp 136 "GET /sms_code/13712345671/ HTTP/1.1" 404 2107
+WARNING 2018-12-12 21:29:57,759 log 228 Not Found: /sms_code/13712345671
+WARNING 2018-12-12 21:29:57,760 basehttp 136 "GET /sms_code/13712345671 HTTP/1.1" 404 2104
+WARNING 2018-12-12 21:30:28,751 log 228 Not Found: /sms_code/13712345671
+WARNING 2018-12-12 21:30:28,751 basehttp 136 "GET /sms_code/13712345671 HTTP/1.1" 404 2192
+WARNING 2018-12-12 21:30:30,403 log 228 Not Found: /sms_code/13712345671
+WARNING 2018-12-12 21:30:30,404 basehttp 136 "GET /sms_code/13712345671 HTTP/1.1" 404 2192
+WARNING 2018-12-12 21:30:52,775 log 228 Not Found: /b/sms_code/13712345671
+WARNING 2018-12-12 21:30:52,775 basehttp 136 "GET /b/sms_code/13712345671 HTTP/1.1" 404 2199
+WARNING 2018-12-12 21:31:27,938 log 228 Not Found: /sms_code/13712345671
+WARNING 2018-12-12 21:31:27,939 basehttp 136 "GET /sms_code/13712345671 HTTP/1.1" 404 2193
+WARNING 2018-12-12 21:31:28,597 log 228 Not Found: /sms_code/13712345671
+WARNING 2018-12-12 21:31:28,598 basehttp 136 "GET /sms_code/13712345671 HTTP/1.1" 404 2193
+INFO 2018-12-12 21:31:43,463 basehttp 136 "GET /admin HTTP/1.1" 301 0
+INFO 2018-12-12 21:31:43,474 basehttp 136 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-12-12 21:31:43,612 basehttp 136 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1821
+INFO 2018-12-12 21:31:43,629 basehttp 136 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2018-12-12 21:31:43,630 basehttp 136 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17976
+INFO 2018-12-12 21:31:43,630 basehttp 136 "GET /static/admin/css/base.css HTTP/1.1" 200 16225
+INFO 2018-12-12 21:31:43,636 basehttp 136 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2018-12-12 21:31:43,651 basehttp 136 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2018-12-12 21:31:43,656 basehttp 136 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+WARNING 2018-12-12 21:32:04,366 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:32:04,367 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2199
+WARNING 2018-12-12 21:34:02,147 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:34:02,150 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2198
+WARNING 2018-12-12 21:34:02,569 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:34:02,570 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2198
+WARNING 2018-12-12 21:34:02,780 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:34:02,781 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2198
+WARNING 2018-12-12 21:34:02,968 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:34:02,969 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2198
+WARNING 2018-12-12 21:34:03,134 log 228 Not Found: /sms_code/137111111111/
+WARNING 2018-12-12 21:34:03,135 basehttp 136 "GET /sms_code/137111111111/ HTTP/1.1" 404 2198
+WARNING 2018-12-12 21:36:15,259 log 228 Not Found: /sms_codes/137111111111/
+WARNING 2018-12-12 21:36:15,260 basehttp 136 "GET /sms_codes/137111111111/ HTTP/1.1" 404 2201
+WARNING 2018-12-12 21:36:18,622 log 228 Not Found: /sms_codes/137111111111/
+WARNING 2018-12-12 21:36:18,622 basehttp 136 "GET /sms_codes/137111111111/ HTTP/1.1" 404 2201
+ERROR 2018-12-12 21:36:42,324 log 228 Internal Server Error: /sms_codes/13711111111/
+Traceback (most recent call last):
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangyuan/mmmeiduo/mmmeiduo/apps/verifications/views.py", line 23, in get
+    sms_code ='506d' % randint(0,999999)
+TypeError: not all arguments converted during string formatting
+ERROR 2018-12-12 21:36:42,326 basehttp 136 "GET /sms_codes/13711111111/ HTTP/1.1" 500 86843
+ERROR 2018-12-12 21:38:57,950 exceptions 25 [<mmmeiduo.apps.verifications.views.SMSCodeView object at 0x10e297fd0>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2018-12-12 21:38:57,978 log 228 Insufficient Storage: /sms_codes/13711111111/
+ERROR 2018-12-12 21:38:57,979 basehttp 136 "GET /sms_codes/13711111111/ HTTP/1.1" 507 9595
+INFO 2018-12-12 21:38:57,999 basehttp 136 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2018-12-12 21:38:58,000 basehttp 136 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+INFO 2018-12-12 21:38:58,001 basehttp 136 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2018-12-12 21:38:58,004 basehttp 136 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2018-12-12 21:38:58,004 basehttp 136 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2018-12-12 21:38:58,006 basehttp 136 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2018-12-12 21:38:58,010 basehttp 136 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2018-12-12 21:38:58,010 basehttp 136 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+INFO 2018-12-12 21:38:58,011 basehttp 136 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+INFO 2018-12-12 21:38:58,011 basehttp 136 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2018-12-12 21:38:58,054 basehttp 136 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+ERROR 2018-12-12 21:40:31,190 exceptions 25 [<mmmeiduo.apps.verifications.views.SMSCodeView object at 0x10e1366a0>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2018-12-12 21:40:31,213 log 228 Insufficient Storage: /sms_codes/13711111111/
+ERROR 2018-12-12 21:40:31,214 basehttp 136 "GET /sms_codes/13711111111/ HTTP/1.1" 507 9595
+ERROR 2018-12-12 21:41:48,606 log 228 Internal Server Error: /sms_codes/13711111111/
+Traceback (most recent call last):
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangyuan/.virtualenvs/django_env17/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangyuan/mmmeiduo/mmmeiduo/apps/verifications/views.py", line 27, in get
+    conn.setex('sms_%s'% mobile,300,sms_code)
+NameError: name 'sms_code' is not defined
+ERROR 2018-12-12 21:41:48,607 basehttp 136 "GET /sms_codes/13711111111/ HTTP/1.1" 500 87289
+ERROR 2018-12-12 21:45:36,299 exceptions 25 [<mmmeiduo.apps.verifications.views.SMSCodeView object at 0x10e669780>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2018-12-12 21:45:36,384 log 228 Insufficient Storage: /sms_codes/13711111111/
+ERROR 2018-12-12 21:45:36,386 basehttp 136 "GET /sms_codes/13711111111/ HTTP/1.1" 507 9595
+INFO 2018-12-12 21:53:22,581 basehttp 136 "GET /sms_codes/13718999999/ HTTP/1.1" 200 9558
+INFO 2018-12-12 22:16:35,199 basehttp 136 "GET /sms_codes/13718999999/ HTTP/1.1" 200 9558
+INFO 2018-12-12 22:16:40,609 basehttp 136 "GET /sms_codes/13718999999/ HTTP/1.1" 200 9574
