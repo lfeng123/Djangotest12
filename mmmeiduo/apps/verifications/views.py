@@ -6,6 +6,7 @@ from rest_framework.views import APIView
 from random import randint  # 随机生成验证码
 from django_redis import get_redis_connection  # 连接缓存数据库redis
 from mmmeiduo.libs.yuntongxun.sms import CCP  # 云通讯
+from celery_tasks.sms.tasks import send_sms_code # 发送短信的异步任务
 
 
 class SMSCodeView(APIView):
@@ -26,6 +27,7 @@ class SMSCodeView(APIView):
 
         # 生成短信验证码
         sms_code = '%06d' % randint(0, 999999)
+        print(sms_code)
 
         # 保存短信验证码
         pl = conn.pipeline()
@@ -36,6 +38,9 @@ class SMSCodeView(APIView):
         # 发送短信
         ccp = CCP()
         ccp.send_template_sms(mobile, [sms_code, 5], 1)  # 模版文字用1号
+        send_sms_code.delay(mobile,sms_code) # 调用异步任务
 
+
+# celery -A celery_tasks.main worker -l info 开启异步任务
         # 返回结果
         return Response({'message': 'OK'})
